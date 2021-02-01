@@ -51,14 +51,15 @@ Project | Number of PRs
 [TheCut](https://github.com/scrum-til-i-die/TheCut) | 12
 
 ### Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gucci-ninja&theme=radical)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gucci-ninja&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucci-ninja&theme=radical&layout=compact&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucci-ninja&theme=radical&layout=compact&hide_border=true&langs_count=10&hide=html,css"/>
 
-
-<!-- ![](https://profile-counter.glitch.me/gucci-ninja/count.svg) >
+![](https://profile-counter.glitch.me/gucci-ninja/count.svg) | visitors
+-------------------------------------------------------------|--------
 
 
 <!--
