@@ -54,9 +54,11 @@ Project | Number of PRs
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gucci-ninja&theme=radical)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gucci-ninja&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucci-ninja&theme=radical&layout=compact&hide_border=true&langs_count=10&hide=html,css"/>
+![](https://github-readme-stats.vercel.app/api?username=gucci-ninja&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gucci-ninja&theme=radical&layout=compact&hide_border=true&langs_count=10&hide=html,css)
+-------------------------------------------- | ----------------------------------------
+
+
 
 ![](https://profile-counter.glitch.me/gucci-ninja/count.svg) | visitors
 -------------------------------------------------------------|--------
