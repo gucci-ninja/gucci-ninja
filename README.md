@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on [Dotboard - Make collaborating easier](https://github.com/gucci-ninja/dotboard)
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/suhavi), [Medium](http://ssuhavi.medium.com/) or [Twitter](https://twitter.com/SuhaviSandhu)
 
+### Currently listening to
+[![Spotify](https://novatorem-qsu1ggwmz.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
+
 ### Skills
 ##### Languages
 <p>
