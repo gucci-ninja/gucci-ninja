@@ -5,7 +5,7 @@
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/suhavi), [Medium](http://ssuhavi.medium.com/) or [Twitter](https://twitter.com/SuhaviSandhu)
 
 ### Currently listening to
-[![Spotify](https://novatorem-qsu1ggwmz.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
+[![Spotify](https://novatorem2-h5sgk107f.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
 
 ### Skills
 ##### Languages
