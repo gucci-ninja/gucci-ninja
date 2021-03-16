@@ -44,19 +44,7 @@
   
 </p>
 
-### Open Source Contributions
-
-Project | Number of PRs 
---------|------------
-[Chatwoot](https://github.com/chatwoot/chatwoot) | 1
-[PublicLab](https://github.com/publiclab/plots2/) | 1
-[DeltaHacks](https://github.com/deltahacks/) | 15
-[TheCut](https://github.com/scrum-til-i-die/TheCut) | 12
-
 ### Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gucci-ninja&theme=radical)
-
 
 ![](https://github-readme-stats.vercel.app/api?username=gucci-ninja&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gucci-ninja&theme=radical&layout=compact&hide_border=true&langs_count=10&hide=html,css)
 -------------------------------------------- | ----------------------------------------
